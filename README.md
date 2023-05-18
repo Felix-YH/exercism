@@ -1,1 +1,1 @@
-# exercism
+# Exercise from exercism.org
